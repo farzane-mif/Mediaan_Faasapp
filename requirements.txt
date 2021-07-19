@@ -1,0 +1,11 @@
+scipy
+tensorflow
+seaborn
+numpy
+fbprophet
+matplotlib
+pandas
+Pillow
+scikit_learn
+statsmodels
+timesynth
