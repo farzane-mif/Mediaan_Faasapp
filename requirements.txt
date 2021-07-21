@@ -1,3 +1,8 @@
+io
+os
+sys
+math
+streamlit
 scipy
 tensorflow
 seaborn
