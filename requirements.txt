@@ -10,3 +10,4 @@ Pillow
 scikit_learn
 statsmodels
 timesynth
+pystan==2.19.1.1
